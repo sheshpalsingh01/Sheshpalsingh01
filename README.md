@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm <strong>Sheshpal Singh</strong></h1>
 <h3 align="center">
-Machine Learning Engineer • GenAI Developer • MLOps Practitioner • Quant Trader (Learner)
+Machine Learning Data Science • GenAI Developer • MLOps Practitioner • Quant Trader (Learner)
 </h3>
 
 <p align="center">
@@ -44,7 +44,7 @@ I don't just “learn AI”, I **ship AI projects consistently**.
 
 ### **GenAI**
 - OpenAI API • LangChain • Embeddings • Vector Search  
-- Prompt Engineering • RAG Pipelines  
+- Prompt Engineering • RAG Pipelines 
 
 ### **MLOps**
 - FastAPI • Flask  
