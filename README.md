@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sheshpalsingh01/sheshpalsingh01/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/sheshpalsingh01/sheshpalsingh01/main/banner1.png" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Sheshpal Singh</strong></h1>
