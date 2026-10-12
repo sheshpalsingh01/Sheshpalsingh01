@@ -59,27 +59,6 @@ I don't just “learn AI”, I **ship AI projects consistently**.
 - Market Indicators • Backtesting Basics  
 
 ---
-
-## 📌 Featured Projects
-------------------------------------------------------------------------------------------------------------------------------
-### 🔹 **Customer Churn Prediction**                     
-End-to-end ML pipeline using RF/XGBoost.                 
-
-### 🔹 **Internship Matching ML System**
-TF-IDF + similarity scoring for role matching.
-
-### 🔹 **Traffic Monitoring ML Project**
-Prediction/classification of traffic conditions.
-
-### 🔹 **Predict Student Marks (Regression)**
-Clean regression workflow with low error.
-
-### 🔹 **General ML Classification Project**
-Multiple ML models compared and optimized.
-
-### 🔹 **EDA Project**
-Data cleaning, correlations, insights.
-
 ---
 
 ## 📊 GitHub Stats (Auto-Updates)
